@@ -7,11 +7,11 @@ In the gait recognition task, cloth-changing data (e.g., CL-class data in the CA
 
 ## Generated Silhouettes
 
-​                               ![image-20220428201014722](C:\Users\xjxjx\AppData\Roaming\Typora\typora-user-images\image-20220428201014722.png)
+​                               ![image](https://github.com/sspBIT/Autoencoder-Guided-GAN-for-Minority-Class-Cloth-Changing-Gait-Data-Generation/blob/main/%E5%9B%BE%E7%89%871.svg)
 
 ## SSIM Comparison
 
-![image](https://github.com/sspBIT/Autoencoder-Guided-GAN-for-Minority-Class-Cloth-Changing-Gait-Data-Generation/blob/main/%E5%9B%BE%E7%89%871.svg)
+![image](https://github.com/sspBIT/Autoencoder-Guided-GAN-for-Minority-Class-Cloth-Changing-Gait-Data-Generation/blob/main/SSIM.PNG)
 
 ## Gait Recognition Network Accuracy
 
@@ -35,19 +35,19 @@ GaitSet, GaitPart, GEINet
 
 ​                                                                                                    Comparison of the recognition accuracy of GaitSet
 
-![image-20220428201631083](C:\Users\xjxjx\AppData\Roaming\Typora\typora-user-images\image-20220428201631083.png)
+![image](https://github.com/sspBIT/Autoencoder-Guided-GAN-for-Minority-Class-Cloth-Changing-Gait-Data-Generation/blob/main/%E6%8D%95%E8%8E%B7.PNG)
 
 
 
 ​                                                                                                     Comparison of the recognition accuracy of GaitPart
 
-![image-20220428201640333](C:\Users\xjxjx\AppData\Roaming\Typora\typora-user-images\image-20220428201640333.png)
+![image](https://github.com/sspBIT/Autoencoder-Guided-GAN-for-Minority-Class-Cloth-Changing-Gait-Data-Generation/blob/main/2.PNG)
 
 
 
 ​                                                                                                     Comparison of the recognition accuracy of GaitSet
 
-![image-20220428201646518](C:\Users\xjxjx\AppData\Roaming\Typora\typora-user-images\image-20220428201646518.png)
+![image](https://github.com/sspBIT/Autoencoder-Guided-GAN-for-Minority-Class-Cloth-Changing-Gait-Data-Generation/blob/main/3.PNG)
 
 
 
