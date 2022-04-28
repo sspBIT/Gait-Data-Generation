@@ -11,7 +11,7 @@ In the gait recognition task, cloth-changing data (e.g., CL-class data in the CA
 
 ## SSIM Comparison
 
-![image-20220428201534111]https://github.com/sspBIT/Autoencoder-Guided-GAN-for-Minority-Class-Cloth-Changing-Gait-Data-Generation/blob/main/%E5%9B%BE%E7%89%871.svg
+![image]https://github.com/sspBIT/Autoencoder-Guided-GAN-for-Minority-Class-Cloth-Changing-Gait-Data-Generation/blob/main/%E5%9B%BE%E7%89%871.svg
 
 ## Gait Recognition Network Accuracy
 
